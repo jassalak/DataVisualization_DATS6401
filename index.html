@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<title>Housing Analysis</title>
+<!--
+// to-do: Does the Contact Me section actually send me an email
+// Home-toggle button on the bottom
+// add d3 bubble map!
+
+-->
+  	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+  	<meta name="description" content="">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"> <!-- d3 spiral-->
+
+	<!-- stylesheets css -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+  	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+
+  	<link rel="stylesheet" href="css/nivo-lightbox.css">
+  	<link rel="stylesheet" href="css/nivo_themes/default/default.css">
+
+  	<link rel="stylesheet" href="css/hover-min.css">
+  	<link rel="stylesheet" href="css/flexslider.css">
+
+	<link rel="stylesheet" href="css/style.css">
+
+  	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600' rel='stylesheet' type='text/css'>
+
+     <!-- d3 spiral--> <script data-require="d3@4.0.0" data-semver="4.0.0" src="https://d3js.org/d3.v4.js"></script> <!-- d3 spiral-->
+	
+	
+</head>
+<body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+<a name = 'home'></a> 
+
+<!-- Preloader section -->
+<div class="preloader">
+	<div class="sk-spinner sk-spinner-pulse"></div>
+</div>
+
+
+<!-- Home section -->
+<section id="home" class="parallax-section">
+  <div class="gradient-overlay"></div>
+    <div class="container">
+      <div class="row">
+          <div class="col-md-offset-2 col-md-8 col-sm-12">
+              <h1 class="wow fadeInUp" data-wow-delay="0.6s">Understanding the U.S. Housing Market</h1>
+              <p class="wow fadeInUp" data-wow-delay="1.0s"></p>
+              <a href="#feature" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Let's Get Started</a>
+          </div>
+      </div>
+    </div>
+</section>
+
+<!-- Navigation section -->
+<div class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon icon-bar"></span>
+        <span class="icon icon-bar"></span>
+        <span class="icon icon-bar"></span>
+      </button>
+      <a href="#" class="navbar-brand">Welcome</a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#top" class="smoothScroll">Home</a></li>
+        <li><a href="#feature" class="smoothScroll">Objectives</a></li>
+		<li><a href="#menu" class="smoothScroll">Table of Contents</a></li>
+        <li><a href="#about" class="smoothScroll">Viz & Analysis</a></li>
+        <li><a href="#team" class="smoothScroll">Conclusions</a></li>
+        <li><a href="#contact" class="smoothScroll">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<!-- Feature section -->
+<section id="feature" class="parallax-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+          <div class="wow fadeInUp section-title" data-wow-delay="0.6s">
+            <h2>Objectives</h2>
+            <h4></h4>
+          </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="feature-thumb">
+          <h3>One</h3>
+          <p>What counties/states have the highest housing prices? Is there a relationship between sale price and time (measured in months)</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="feature-thumb">
+          <h3>Two</h3>
+          <p>As a seller, where is the best place to sell a house?</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.9s">
+        <div class="feature-thumb">
+           <h3>Three</h3>
+           <p>As a buyer, where is the best place to buy a house?</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Menu section -->
+<section id="menu" class="parallax-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+         <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
+            <h2>Table of Contents</h2>
+            <h4> </h4>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="media wow fadeInUp" data-wow-delay="0.6s">
+          <div class="media-object pull-left">
+            <img src="images/gallery-img1.jpg" class="img-responsive" alt="Food Menu">
+			<span class="menu-price"><a href="#tree">Click</a></span>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">Tree</h3>
+            <p></p>
+          </div>
+        </div>
+        <div class="media wow fadeInUp" data-wow-delay="0.9s">
+          <div class="media-object pull-left">
+            <img src="images/gallery-img2.jpg" class="img-responsive" alt="Food Menu">
+            <span class="menu-price"><a href="#state">Click</a></span>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">State</h3>
+            <p></p>
+          </div>
+        </div>
+        <div class="media wow fadeInUp" data-wow-delay="1.2s">
+          <div class="media-object pull-left">
+            <img src="images/gallery-img3.jpg" class="img-responsive" alt="Food Menu">
+            <span class="menu-price"><a href="#city">Click</a></span>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">City</h3>
+            <p></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="media wow fadeInUp" data-wow-delay="1s">
+          <div class="media-object pull-left">
+            <img src="images/gallery-img4.jpg" class="img-responsive" alt="Food Menu">
+            <span class="menu-price"><a href="#geo">Click</a></span>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">Geo</h3>
+            <p></p>
+          </div>
+        </div>
+        <div class="media wow fadeInUp" data-wow-delay="1.3s">
+          <div class="media-object pull-left">
+            <img src="images/gallery-img5.jpg" class="img-responsive" alt="Food Menu">
+            <span class="menu-price"><a href="#splicer">Click</a></span>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">DIY Line</h3>
+            <p></p>
+          </div>
+        </div>
+        <div class="media wow fadeInUp" data-wow-delay="1.6s">
+          <div class="media-object pull-left">
+            <img src="images/gallery-img6.jpg" class="img-responsive" alt="Food Menu">
+            <span class="menu-price"><a href="#spiral">Click</a></span>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">Spiral</h3>
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- About section -->
+<section id="about" class="parallax-section">
+	<div class="container">
+		<div class="row">
+      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+          <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
+            <h2>Visualization</h2>
+            <h2>And Analysis</h2>
+          </div>
+      </div>
+	  
+<!-- TREE MAP START-->
+	  <section id="tree" class="parallax-section">
+	  <div class="clearfix"></div>    
+      <div class="wow fadeInUp col-md-3 col-sm-5" data-wow-delay="0.3s">  
+        <h3>                    
+			<ul class="analysis1"><br></br> 
+                <li>Tree map that plots the average sale price by State.  The darker the green, the higher the price.<br></br></li>
+				<li> DC has the highest sale price (on average) <br></br></li>
+                <li> VA and MD are second and third, respecitively </li>
+            </ul>
+		</h3>
+      </div>
+      <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+        <!-- flexslider -->
+        <div class="flexslider">
+ <!-- TREE MAP TABLEAU--> <div class='tableauPlaceholder' id='viz1544020800298' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;TreeMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;TreeMap' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;TreeMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544020800298');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='850px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        </div>
+         <p> </p>
+      </div>
+<!-- TREE MAP END-->
+
+<!-- STATE START-->
+      <section id="state" class="parallax-section">
+	  <div class="clearfix"></div>    
+      <div class="wow fadeInUp col-md-3 col-sm-5" data-wow-delay="0.3s">  
+        <h3>			
+			<ul class="analysis1"><br></br> 
+                <li>The State Dashboard utilizes several lollipop and bar graphs to display four metrics by State.  Hover over the Filter to focus in on one State.  <br></br></li>
+				<li>a. DC and VA have higher than average sale price (average: $351k). <br></br></li>
+                <li>b. The gold-diamonds depict average homes sold.  NC currently has the highest.  <br></br> </li>
+				<li>c. PA has the highest average days on market. <br></br></li>
+                <li>d. WV and NC have the lowest and highest average number of new listings by State, respectively.  </li>
+            </ul>
+		</h3>
+      </div>
+      <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+        <!-- flexslider -->
+        <div class="flexslider">
+  <!-- STATE TABLEAU--> <div class='tableauPlaceholder' id='viz1544020940487' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;State&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;State' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;State&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544020940487');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='850px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+		</div>
+         <p> </p>
+      </div>
+<!-- STATE END-->
+
+<!-- CITY START-->
+      <section id="city" class="parallax-section">
+	  <div class="clearfix"></div>    
+      <div class="wow fadeInUp col-md-3 col-sm-5" data-wow-delay="0.3s">  
+       <h3>                    
+			<ul class="analysis1"><br></br> 
+                <li> The City Dashboard has the same layout as the State Dashboard but can Filter on State AND City.<br></br></li>
+            </ul>
+		</h3>        
+      </div>
+      <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+        <!-- flexslider -->
+        <div class="flexslider">
+  <!-- CITY TABLEAU--> <div class='tableauPlaceholder' id='viz1544020981661' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;City&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;City' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;City&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544020981661');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='850px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        </div>
+         <p> </p>
+      </div>
+<!-- CITY END-->
+
+<!-- GEOMAP START-->
+      <section id="geo" class="parallax-section">
+	  <div class="clearfix"></div>    
+      <div class="wow fadeInUp col-md-3 col-sm-5" data-wow-delay="0.3s">  
+        <h3>                    
+			<ul class="analysis1"><br></br> 
+                <br></br><li>The GeoSpacial Bubble chart shows the median sale price (size) by City by State (color).<br></br></li>
+				<li>The dataset has 6 States, yet only in certain geographical areas.  For this reason, average was used for all the analysis and results.  <br></br></li>
+            </ul>
+		</h3>   
+      </div>
+      <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+        <!-- flexslider -->
+        <div class="flexslider">
+<!-- GEOMAP TABLEAU--> <div class='tableauPlaceholder' id='viz1544021022192' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;GeoMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;GeoMap' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;GeoMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544021022192');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='850px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        </div>
+         <p> </p>
+      </div>
+<!-- GEOMAP END-->
+
+<!-- SPLICER START-->
+      <section id="splicer" class="parallax-section">
+	  <div class="clearfix"></div>    
+      <div class="wow fadeInUp col-md-3 col-sm-5" data-wow-delay="0.3s">  
+       <h3>                    
+			<ul class="analysis1"><br></br> 
+                <li> The Splicer graph is the most versatile display.<br></br></li>
+				<li> The x-axis is Time, and can be set to varying date granularities (Month, Quarter, Year)  <br></br></li>
+				<li> The y-axis dynamically displays one out of five metrics.   <br></br></li>
+				<li> Other filters include State and City filters.   <br></br></li>
+            </ul>
+		</h3>
+      </div>
+      <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+        <!-- flexslider -->
+        <div class="flexslider">
+<!-- SPLICER TABLEAU-->  <div class='tableauPlaceholder' id='viz1544021071217' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;Splicer&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;Splicer' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DA&#47;DATS6401-FinalProject-AkashJassal-TableauDashboard&#47;Splicer&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544021071217');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='850px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<!-- SPLICER END-->
+
+<!-- D3 Spiral Start-->
+<section id="spiral" class="parallax-section">
+	  </div>
+         <h2>Condegram Spiral Plot</h2>
+      </div>
+		<br></br>
+      <div class="clearfix"></div>    
+      <div class="wow fadeInUp col-md-3 col-sm-5" data-wow-delay="0.3s">  
+       <h3>                    
+			<ul class="analysis1"><br></br> 
+                <li> The Spiral Plot is a Horizontal Bar Graph wrapped around itself.<br></br></li>
+				<li> This type of graph takes up less real-estate.  <br></br></li>
+				<li> The x-axis is by Date, then by State (color).   <br></br></li>
+				<li> The y-axis is the average Median Sale Price.   <br></br></li>
+				<li> By color, the bars are increasing.  This shows there is a steady rise in sale price by State over time. <br></br>
+            </ul>
+		</h3>        
+      </div>
+      <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+        <!-- flexslider -->
+        <div class="flexslider">
+				<div id="spiralchart"></div>
+				<script type="text/javascript" src="js/main.js"></script>
+        </div>
+         <p></p>
+      </div>
+<!-- D3 Spiral End-->
+
+<!-- RESULTS section -->
+       <div class="wow fadeInUp col-md-4 col-sm-12" data-wow-delay="0.9s">
+        	<h2></h2>
+         	<p>  <a rel="nofollow" href="" target="_blank"></a> </p>
+         	<p></p>    	
+            <ul></ul>
+      </div>
+		</div>
+	</div>
+</section>
+<section id="team" class="parallax-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+         <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
+            <h2>Conclusions</h2>
+            <h4> </h4>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="clearfix"></div>
+      <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.3s">
+       	<h2>Results	
+			<h3>
+			  <ul class="analysis1">
+                <li> DC and NC are the ideal States if you are a seller and buyer, respectively. <br></br></li>
+				<li> DC has the highest sale price, and lowest days on market.  They are also middle of the pack when it comes to new listings, suggesting new potential buyers will have options but not too many options.  <br></br></li>
+				<li> NC has lower than average sale prices and sell the highest homes per average. <br></br></li>
+				<li> Houses in NC stay on the market almost three months, suggesting the buyer does not have to rush.   <br></br></li>
+              </ul>
+			</h3>
+		 <h2>
+      </div>
+      <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
+        	<h2>Future Steps	
+			<h3>
+			  <ul class="analysis1">
+                <li>Obtain a more expansive dataset, with geospacial indicators and more locations.<br></br></li>
+				<li>Add in additional fields, such as Crime Rates by Zip Code and determine if it affects housing rates.<br></br></li>
+				<li>Build a dashboard for the 'C-Suite' audience, rather than 'Analyst' level.<br></br></li>
+				<li>Create more motion-related graphs depicting metrics over time (in d3.js)<br></br></li>
+              </ul>
+			</h3>
+		 <h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact section -->
+<section id="contact" class="parallax-section">
+  <div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+            <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
+                <h2>Contact Me</h2>
+                <h4>If you have any comments or questions...</h4>
+            </div>
+				<div class="contact-form wow fadeInUp" data-wow-delay="0.7s">
+					<form id="contact-form" method="post" action="#">
+						<input name="name" type="text" class="form-control" placeholder="Your Name" required>
+						<input name="email" type="email" class="form-control" placeholder="Your Email" required>
+						<textarea name="message" class="form-control" placeholder="Message" rows="5" required></textarea>
+						<input type="submit" class="form-control submit" value="SEND MESSAGE">
+					</form>
+				</div>
+			</div>			
+		</div>
+	</div>
+</section>
+
+<!-- Footer section -->
+<footer>
+	<div class="container">
+		<div class="row">
+              <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="1.3s">
+                <h3></h3>
+                <p>  </p>
+              </div>  
+              <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="1.3s">
+                <h3>Authors</h3>
+                <strong>Analysis By:</strong>
+                <p>Akash Jassal</p>
+				<strong>Created For:</strong>
+                <p> GWU DATS 6401 Final Project</p>
+				<br></br>
+			    <div class="col-md-4 col-sm-4 text-right"> <a href="#top" class="fa fa-angle-up gototop"></a> </div>
+              </div>   
+		</div>
+	</div>
+</footer>
+
+<!-- javscript js -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/jquery.sticky.js"></script>
+<script src="js/jquery.backstretch.min.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/imagesloaded.min.js"></script>
+<script src="js/nivo-lightbox.min.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/jquery.parallax.js"></script>
+<script src="js/smoothscroll.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+
+<!-- Copyright section <p>Copyright © 2016 Steak House Company - Designed by <a class="designed-by" href="https://plus.google.com/+Tooplate/" target="_blank">Tooplate</a></p> -->
+</body>
+</html>
