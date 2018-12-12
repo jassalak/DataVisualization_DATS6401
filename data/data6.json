@@ -1,0 +1,3746 @@
+[
+  {
+    "index": 1,
+    "date": "1/1/2009",
+    "value": 313000,
+    "group": "DC"
+  },
+  {
+    "index": 2,
+    "date": "2/1/2009",
+    "value": 361000,
+    "group": "DC"
+  },
+  {
+    "index": 3,
+    "date": "3/1/2009",
+    "value": 552000,
+    "group": "DC"
+  },
+  {
+    "index": 4,
+    "date": "4/1/2009",
+    "value": 620000,
+    "group": "DC"
+  },
+  {
+    "index": 5,
+    "date": "5/1/2009",
+    "value": 730000,
+    "group": "DC"
+  },
+  {
+    "index": 6,
+    "date": "6/1/2009",
+    "value": 719000,
+    "group": "DC"
+  },
+  {
+    "index": 7,
+    "date": "7/1/2009",
+    "value": 716000,
+    "group": "DC"
+  },
+  {
+    "index": 8,
+    "date": "8/1/2009",
+    "value": 680000,
+    "group": "DC"
+  },
+  {
+    "index": 9,
+    "date": "9/1/2009",
+    "value": 607000,
+    "group": "DC"
+  },
+  {
+    "index": 10,
+    "date": "10/1/2009",
+    "value": 351000,
+    "group": "DC"
+  },
+  {
+    "index": 11,
+    "date": "11/1/2009",
+    "value": 643000,
+    "group": "DC"
+  },
+  {
+    "index": 12,
+    "date": "12/1/2009",
+    "value": 518000,
+    "group": "DC"
+  },
+  {
+    "index": 13,
+    "date": "1/1/2010",
+    "value": 710000,
+    "group": "DC"
+  },
+  {
+    "index": 14,
+    "date": "2/1/2010",
+    "value": 323000,
+    "group": "DC"
+  },
+  {
+    "index": 15,
+    "date": "3/1/2010",
+    "value": 421000,
+    "group": "DC"
+  },
+  {
+    "index": 16,
+    "date": "4/1/2010",
+    "value": 525000,
+    "group": "DC"
+  },
+  {
+    "index": 17,
+    "date": "5/1/2010",
+    "value": 649000,
+    "group": "DC"
+  },
+  {
+    "index": 18,
+    "date": "6/1/2010",
+    "value": 554000,
+    "group": "DC"
+  },
+  {
+    "index": 19,
+    "date": "7/1/2010",
+    "value": 735000,
+    "group": "DC"
+  },
+  {
+    "index": 20,
+    "date": "8/1/2010",
+    "value": 708000,
+    "group": "DC"
+  },
+  {
+    "index": 21,
+    "date": "9/1/2010",
+    "value": 419000,
+    "group": "DC"
+  },
+  {
+    "index": 22,
+    "date": "10/1/2010",
+    "value": 729000,
+    "group": "DC"
+  },
+  {
+    "index": 23,
+    "date": "11/1/2010",
+    "value": 775000,
+    "group": "DC"
+  },
+  {
+    "index": 24,
+    "date": "12/1/2010",
+    "value": 726000,
+    "group": "DC"
+  },
+  {
+    "index": 25,
+    "date": "1/1/2011",
+    "value": 602000,
+    "group": "DC"
+  },
+  {
+    "index": 26,
+    "date": "2/1/2011",
+    "value": 383000,
+    "group": "DC"
+  },
+  {
+    "index": 27,
+    "date": "3/1/2011",
+    "value": 465000,
+    "group": "DC"
+  },
+  {
+    "index": 28,
+    "date": "4/1/2011",
+    "value": 475000,
+    "group": "DC"
+  },
+  {
+    "index": 29,
+    "date": "5/1/2011",
+    "value": 654000,
+    "group": "DC"
+  },
+  {
+    "index": 30,
+    "date": "6/1/2011",
+    "value": 803000,
+    "group": "DC"
+  },
+  {
+    "index": 31,
+    "date": "7/1/2011",
+    "value": 684000,
+    "group": "DC"
+  },
+  {
+    "index": 32,
+    "date": "8/1/2011",
+    "value": 770000,
+    "group": "DC"
+  },
+  {
+    "index": 33,
+    "date": "9/1/2011",
+    "value": 585000,
+    "group": "DC"
+  },
+  {
+    "index": 34,
+    "date": "10/1/2011",
+    "value": 537000,
+    "group": "DC"
+  },
+  {
+    "index": 35,
+    "date": "11/1/2011",
+    "value": 490000,
+    "group": "DC"
+  },
+  {
+    "index": 36,
+    "date": "12/1/2011",
+    "value": 570000,
+    "group": "DC"
+  },
+  {
+    "index": 37,
+    "date": "1/1/2012",
+    "value": 475000,
+    "group": "DC"
+  },
+  {
+    "index": 38,
+    "date": "2/1/2012",
+    "value": 417500,
+    "group": "DC"
+  },
+  {
+    "index": 39,
+    "date": "3/1/2012",
+    "value": 540000,
+    "group": "DC"
+  },
+  {
+    "index": 40,
+    "date": "4/1/2012",
+    "value": 510000,
+    "group": "DC"
+  },
+  {
+    "index": 41,
+    "date": "5/1/2012",
+    "value": 722500,
+    "group": "DC"
+  },
+  {
+    "index": 42,
+    "date": "6/1/2012",
+    "value": 702500,
+    "group": "DC"
+  },
+  {
+    "index": 43,
+    "date": "7/1/2012",
+    "value": 769500,
+    "group": "DC"
+  },
+  {
+    "index": 44,
+    "date": "8/1/2012",
+    "value": 741500,
+    "group": "DC"
+  },
+  {
+    "index": 45,
+    "date": "9/1/2012",
+    "value": 670000,
+    "group": "DC"
+  },
+  {
+    "index": 46,
+    "date": "10/1/2012",
+    "value": 682500,
+    "group": "DC"
+  },
+  {
+    "index": 47,
+    "date": "11/1/2012",
+    "value": 694500,
+    "group": "DC"
+  },
+  {
+    "index": 48,
+    "date": "12/1/2012",
+    "value": 776000,
+    "group": "DC"
+  },
+  {
+    "index": 49,
+    "date": "1/1/2013",
+    "value": 563500,
+    "group": "DC"
+  },
+  {
+    "index": 50,
+    "date": "2/1/2013",
+    "value": 503000,
+    "group": "DC"
+  },
+  {
+    "index": 51,
+    "date": "3/1/2013",
+    "value": 580000,
+    "group": "DC"
+  },
+  {
+    "index": 52,
+    "date": "4/1/2013",
+    "value": 785000,
+    "group": "DC"
+  },
+  {
+    "index": 53,
+    "date": "5/1/2013",
+    "value": 782500,
+    "group": "DC"
+  },
+  {
+    "index": 54,
+    "date": "6/1/2013",
+    "value": 868000,
+    "group": "DC"
+  },
+  {
+    "index": 55,
+    "date": "7/1/2013",
+    "value": 865000,
+    "group": "DC"
+  },
+  {
+    "index": 56,
+    "date": "8/1/2013",
+    "value": 777000,
+    "group": "DC"
+  },
+  {
+    "index": 57,
+    "date": "9/1/2013",
+    "value": 670000,
+    "group": "DC"
+  },
+  {
+    "index": 58,
+    "date": "10/1/2013",
+    "value": 695000,
+    "group": "DC"
+  },
+  {
+    "index": 59,
+    "date": "11/1/2013",
+    "value": 800000,
+    "group": "DC"
+  },
+  {
+    "index": 60,
+    "date": "12/1/2013",
+    "value": 747000,
+    "group": "DC"
+  },
+  {
+    "index": 61,
+    "date": "1/1/2014",
+    "value": 518000,
+    "group": "DC"
+  },
+  {
+    "index": 62,
+    "date": "2/1/2014",
+    "value": 614500,
+    "group": "DC"
+  },
+  {
+    "index": 63,
+    "date": "3/1/2014",
+    "value": 684000,
+    "group": "DC"
+  },
+  {
+    "index": 64,
+    "date": "4/1/2014",
+    "value": 581000,
+    "group": "DC"
+  },
+  {
+    "index": 65,
+    "date": "5/1/2014",
+    "value": 744000,
+    "group": "DC"
+  },
+  {
+    "index": 66,
+    "date": "6/1/2014",
+    "value": 895000,
+    "group": "DC"
+  },
+  {
+    "index": 67,
+    "date": "7/1/2014",
+    "value": 884500,
+    "group": "DC"
+  },
+  {
+    "index": 68,
+    "date": "8/1/2014",
+    "value": 703500,
+    "group": "DC"
+  },
+  {
+    "index": 69,
+    "date": "9/1/2014",
+    "value": 753000,
+    "group": "DC"
+  },
+  {
+    "index": 70,
+    "date": "10/1/2014",
+    "value": 661000,
+    "group": "DC"
+  },
+  {
+    "index": 71,
+    "date": "11/1/2014",
+    "value": 632500,
+    "group": "DC"
+  },
+  {
+    "index": 72,
+    "date": "12/1/2014",
+    "value": 733500,
+    "group": "DC"
+  },
+  {
+    "index": 73,
+    "date": "1/1/2015",
+    "value": 600000,
+    "group": "DC"
+  },
+  {
+    "index": 74,
+    "date": "2/1/2015",
+    "value": 585000,
+    "group": "DC"
+  },
+  {
+    "index": 75,
+    "date": "3/1/2015",
+    "value": 581500,
+    "group": "DC"
+  },
+  {
+    "index": 76,
+    "date": "4/1/2015",
+    "value": 836500,
+    "group": "DC"
+  },
+  {
+    "index": 77,
+    "date": "5/1/2015",
+    "value": 713500,
+    "group": "DC"
+  },
+  {
+    "index": 78,
+    "date": "6/1/2015",
+    "value": 894500,
+    "group": "DC"
+  },
+  {
+    "index": 79,
+    "date": "7/1/2015",
+    "value": 829000,
+    "group": "DC"
+  },
+  {
+    "index": 80,
+    "date": "8/1/2015",
+    "value": 810000,
+    "group": "DC"
+  },
+  {
+    "index": 81,
+    "date": "9/1/2015",
+    "value": 628500,
+    "group": "DC"
+  },
+  {
+    "index": 82,
+    "date": "10/1/2015",
+    "value": 661500,
+    "group": "DC"
+  },
+  {
+    "index": 83,
+    "date": "11/1/2015",
+    "value": 822000,
+    "group": "DC"
+  },
+  {
+    "index": 84,
+    "date": "12/1/2015",
+    "value": 804500,
+    "group": "DC"
+  },
+  {
+    "index": 85,
+    "date": "1/1/2016",
+    "value": 548000,
+    "group": "DC"
+  },
+  {
+    "index": 86,
+    "date": "2/1/2016",
+    "value": 707500,
+    "group": "DC"
+  },
+  {
+    "index": 87,
+    "date": "3/1/2016",
+    "value": 571500,
+    "group": "DC"
+  },
+  {
+    "index": 88,
+    "date": "4/1/2016",
+    "value": 771000,
+    "group": "DC"
+  },
+  {
+    "index": 89,
+    "date": "5/1/2016",
+    "value": 771000,
+    "group": "DC"
+  },
+  {
+    "index": 90,
+    "date": "6/1/2016",
+    "value": 751000,
+    "group": "DC"
+  },
+  {
+    "index": 91,
+    "date": "7/1/2016",
+    "value": 886000,
+    "group": "DC"
+  },
+  {
+    "index": 92,
+    "date": "8/1/2016",
+    "value": 924000,
+    "group": "DC"
+  },
+  {
+    "index": 93,
+    "date": "9/1/2016",
+    "value": 724000,
+    "group": "DC"
+  },
+  {
+    "index": 94,
+    "date": "10/1/2016",
+    "value": 700000,
+    "group": "DC"
+  },
+  {
+    "index": 95,
+    "date": "11/1/2016",
+    "value": 757500,
+    "group": "DC"
+  },
+  {
+    "index": 96,
+    "date": "12/1/2016",
+    "value": 659000,
+    "group": "DC"
+  },
+  {
+    "index": 97,
+    "date": "1/1/2017",
+    "value": 778000,
+    "group": "DC"
+  },
+  {
+    "index": 98,
+    "date": "2/1/2017",
+    "value": 626000,
+    "group": "DC"
+  },
+  {
+    "index": 99,
+    "date": "3/1/2017",
+    "value": 617500,
+    "group": "DC"
+  },
+  {
+    "index": 100,
+    "date": "4/1/2017",
+    "value": 837500,
+    "group": "DC"
+  },
+  {
+    "index": 101,
+    "date": "5/1/2017",
+    "value": 883000,
+    "group": "DC"
+  },
+  {
+    "index": 102,
+    "date": "6/1/2017",
+    "value": 812500,
+    "group": "DC"
+  },
+  {
+    "index": 103,
+    "date": "7/1/2017",
+    "value": 777000,
+    "group": "DC"
+  },
+  {
+    "index": 104,
+    "date": "8/1/2017",
+    "value": 804500,
+    "group": "DC"
+  },
+  {
+    "index": 105,
+    "date": "9/1/2017",
+    "value": 720000,
+    "group": "DC"
+  },
+  {
+    "index": 106,
+    "date": "10/1/2017",
+    "value": 795000,
+    "group": "DC"
+  },
+  {
+    "index": 107,
+    "date": "11/1/2017",
+    "value": 762500,
+    "group": "DC"
+  },
+  {
+    "index": 108,
+    "date": "12/1/2017",
+    "value": 840000,
+    "group": "DC"
+  },
+  {
+    "index": 109,
+    "date": "1/1/2018",
+    "value": 663500,
+    "group": "DC"
+  },
+  {
+    "index": 110,
+    "date": "2/1/2018",
+    "value": 783000,
+    "group": "DC"
+  },
+  {
+    "index": 111,
+    "date": "1/1/2009",
+    "value": 223250,
+    "group": "MD"
+  },
+  {
+    "index": 112,
+    "date": "2/1/2009",
+    "value": 216750,
+    "group": "MD"
+  },
+  {
+    "index": 113,
+    "date": "3/1/2009",
+    "value": 221000,
+    "group": "MD"
+  },
+  {
+    "index": 114,
+    "date": "4/1/2009",
+    "value": 219750,
+    "group": "MD"
+  },
+  {
+    "index": 115,
+    "date": "5/1/2009",
+    "value": 213250,
+    "group": "MD"
+  },
+  {
+    "index": 116,
+    "date": "6/1/2009",
+    "value": 231000,
+    "group": "MD"
+  },
+  {
+    "index": 117,
+    "date": "7/1/2009",
+    "value": 238250,
+    "group": "MD"
+  },
+  {
+    "index": 118,
+    "date": "8/1/2009",
+    "value": 229250,
+    "group": "MD"
+  },
+  {
+    "index": 119,
+    "date": "9/1/2009",
+    "value": 222750,
+    "group": "MD"
+  },
+  {
+    "index": 120,
+    "date": "10/1/2009",
+    "value": 214500,
+    "group": "MD"
+  },
+  {
+    "index": 121,
+    "date": "11/1/2009",
+    "value": 205250,
+    "group": "MD"
+  },
+  {
+    "index": 122,
+    "date": "12/1/2009",
+    "value": 216500,
+    "group": "MD"
+  },
+  {
+    "index": 123,
+    "date": "1/1/2010",
+    "value": 191000,
+    "group": "MD"
+  },
+  {
+    "index": 124,
+    "date": "2/1/2010",
+    "value": 207250,
+    "group": "MD"
+  },
+  {
+    "index": 125,
+    "date": "3/1/2010",
+    "value": 209000,
+    "group": "MD"
+  },
+  {
+    "index": 126,
+    "date": "4/1/2010",
+    "value": 196250,
+    "group": "MD"
+  },
+  {
+    "index": 127,
+    "date": "5/1/2010",
+    "value": 217750,
+    "group": "MD"
+  },
+  {
+    "index": 128,
+    "date": "6/1/2010",
+    "value": 212750,
+    "group": "MD"
+  },
+  {
+    "index": 129,
+    "date": "7/1/2010",
+    "value": 221000,
+    "group": "MD"
+  },
+  {
+    "index": 130,
+    "date": "8/1/2010",
+    "value": 231750,
+    "group": "MD"
+  },
+  {
+    "index": 131,
+    "date": "9/1/2010",
+    "value": 205000,
+    "group": "MD"
+  },
+  {
+    "index": 132,
+    "date": "10/1/2010",
+    "value": 211750,
+    "group": "MD"
+  },
+  {
+    "index": 133,
+    "date": "11/1/2010",
+    "value": 209250,
+    "group": "MD"
+  },
+  {
+    "index": 134,
+    "date": "12/1/2010",
+    "value": 194750,
+    "group": "MD"
+  },
+  {
+    "index": 135,
+    "date": "1/1/2011",
+    "value": 194750,
+    "group": "MD"
+  },
+  {
+    "index": 136,
+    "date": "2/1/2011",
+    "value": 183250,
+    "group": "MD"
+  },
+  {
+    "index": 137,
+    "date": "3/1/2011",
+    "value": 181500,
+    "group": "MD"
+  },
+  {
+    "index": 138,
+    "date": "4/1/2011",
+    "value": 179250,
+    "group": "MD"
+  },
+  {
+    "index": 139,
+    "date": "5/1/2011",
+    "value": 191750,
+    "group": "MD"
+  },
+  {
+    "index": 140,
+    "date": "6/1/2011",
+    "value": 195750,
+    "group": "MD"
+  },
+  {
+    "index": 141,
+    "date": "7/1/2011",
+    "value": 213000,
+    "group": "MD"
+  },
+  {
+    "index": 142,
+    "date": "8/1/2011",
+    "value": 204250,
+    "group": "MD"
+  },
+  {
+    "index": 143,
+    "date": "9/1/2011",
+    "value": 198000,
+    "group": "MD"
+  },
+  {
+    "index": 144,
+    "date": "10/1/2011",
+    "value": 179250,
+    "group": "MD"
+  },
+  {
+    "index": 145,
+    "date": "11/1/2011",
+    "value": 191000,
+    "group": "MD"
+  },
+  {
+    "index": 146,
+    "date": "12/1/2011",
+    "value": 193250,
+    "group": "MD"
+  },
+  {
+    "index": 147,
+    "date": "1/1/2012",
+    "value": 278909.0909,
+    "group": "MD"
+  },
+  {
+    "index": 148,
+    "date": "2/1/2012",
+    "value": 257181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 149,
+    "date": "3/1/2012",
+    "value": 251636.3636,
+    "group": "MD"
+  },
+  {
+    "index": 150,
+    "date": "4/1/2012",
+    "value": 264545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 151,
+    "date": "5/1/2012",
+    "value": 288363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 152,
+    "date": "6/1/2012",
+    "value": 287272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 153,
+    "date": "7/1/2012",
+    "value": 299000,
+    "group": "MD"
+  },
+  {
+    "index": 154,
+    "date": "8/1/2012",
+    "value": 303909.0909,
+    "group": "MD"
+  },
+  {
+    "index": 155,
+    "date": "9/1/2012",
+    "value": 287909.0909,
+    "group": "MD"
+  },
+  {
+    "index": 156,
+    "date": "10/1/2012",
+    "value": 290272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 157,
+    "date": "11/1/2012",
+    "value": 293090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 158,
+    "date": "12/1/2012",
+    "value": 286454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 159,
+    "date": "1/1/2013",
+    "value": 302545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 160,
+    "date": "2/1/2013",
+    "value": 281272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 161,
+    "date": "3/1/2013",
+    "value": 289545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 162,
+    "date": "4/1/2013",
+    "value": 289272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 163,
+    "date": "5/1/2013",
+    "value": 306545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 164,
+    "date": "6/1/2013",
+    "value": 311090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 165,
+    "date": "7/1/2013",
+    "value": 329181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 166,
+    "date": "8/1/2013",
+    "value": 310818.1818,
+    "group": "MD"
+  },
+  {
+    "index": 167,
+    "date": "9/1/2013",
+    "value": 314090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 168,
+    "date": "10/1/2013",
+    "value": 293545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 169,
+    "date": "11/1/2013",
+    "value": 315181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 170,
+    "date": "12/1/2013",
+    "value": 287272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 171,
+    "date": "1/1/2014",
+    "value": 300090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 172,
+    "date": "2/1/2014",
+    "value": 301363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 173,
+    "date": "3/1/2014",
+    "value": 296000,
+    "group": "MD"
+  },
+  {
+    "index": 174,
+    "date": "4/1/2014",
+    "value": 292909.0909,
+    "group": "MD"
+  },
+  {
+    "index": 175,
+    "date": "5/1/2014",
+    "value": 314272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 176,
+    "date": "6/1/2014",
+    "value": 311454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 177,
+    "date": "7/1/2014",
+    "value": 324454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 178,
+    "date": "8/1/2014",
+    "value": 309181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 179,
+    "date": "9/1/2014",
+    "value": 310818.1818,
+    "group": "MD"
+  },
+  {
+    "index": 180,
+    "date": "10/1/2014",
+    "value": 311363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 181,
+    "date": "11/1/2014",
+    "value": 285181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 182,
+    "date": "12/1/2014",
+    "value": 291454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 183,
+    "date": "1/1/2015",
+    "value": 288545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 184,
+    "date": "2/1/2015",
+    "value": 290545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 185,
+    "date": "3/1/2015",
+    "value": 282545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 186,
+    "date": "4/1/2015",
+    "value": 281272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 187,
+    "date": "5/1/2015",
+    "value": 286545.4545,
+    "group": "MD"
+  },
+  {
+    "index": 188,
+    "date": "6/1/2015",
+    "value": 304181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 189,
+    "date": "7/1/2015",
+    "value": 293272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 190,
+    "date": "8/1/2015",
+    "value": 316000,
+    "group": "MD"
+  },
+  {
+    "index": 191,
+    "date": "9/1/2015",
+    "value": 293727.2727,
+    "group": "MD"
+  },
+  {
+    "index": 192,
+    "date": "10/1/2015",
+    "value": 284818.1818,
+    "group": "MD"
+  },
+  {
+    "index": 193,
+    "date": "11/1/2015",
+    "value": 302454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 194,
+    "date": "12/1/2015",
+    "value": 308818.1818,
+    "group": "MD"
+  },
+  {
+    "index": 195,
+    "date": "1/1/2016",
+    "value": 312363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 196,
+    "date": "2/1/2016",
+    "value": 290272.7273,
+    "group": "MD"
+  },
+  {
+    "index": 197,
+    "date": "3/1/2016",
+    "value": 282727.2727,
+    "group": "MD"
+  },
+  {
+    "index": 198,
+    "date": "4/1/2016",
+    "value": 308636.3636,
+    "group": "MD"
+  },
+  {
+    "index": 199,
+    "date": "5/1/2016",
+    "value": 311636.3636,
+    "group": "MD"
+  },
+  {
+    "index": 200,
+    "date": "6/1/2016",
+    "value": 312090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 201,
+    "date": "7/1/2016",
+    "value": 336727.2727,
+    "group": "MD"
+  },
+  {
+    "index": 202,
+    "date": "8/1/2016",
+    "value": 312909.0909,
+    "group": "MD"
+  },
+  {
+    "index": 203,
+    "date": "9/1/2016",
+    "value": 320454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 204,
+    "date": "10/1/2016",
+    "value": 313454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 205,
+    "date": "11/1/2016",
+    "value": 323181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 206,
+    "date": "12/1/2016",
+    "value": 300090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 207,
+    "date": "1/1/2017",
+    "value": 313454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 208,
+    "date": "2/1/2017",
+    "value": 314181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 209,
+    "date": "3/1/2017",
+    "value": 300181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 210,
+    "date": "4/1/2017",
+    "value": 323363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 211,
+    "date": "5/1/2017",
+    "value": 326181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 212,
+    "date": "6/1/2017",
+    "value": 332090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 213,
+    "date": "7/1/2017",
+    "value": 360818.1818,
+    "group": "MD"
+  },
+  {
+    "index": 214,
+    "date": "8/1/2017",
+    "value": 330727.2727,
+    "group": "MD"
+  },
+  {
+    "index": 215,
+    "date": "9/1/2017",
+    "value": 329363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 216,
+    "date": "10/1/2017",
+    "value": 320181.8182,
+    "group": "MD"
+  },
+  {
+    "index": 217,
+    "date": "11/1/2017",
+    "value": 329090.9091,
+    "group": "MD"
+  },
+  {
+    "index": 218,
+    "date": "12/1/2017",
+    "value": 332454.5455,
+    "group": "MD"
+  },
+  {
+    "index": 219,
+    "date": "1/1/2018",
+    "value": 338000,
+    "group": "MD"
+  },
+  {
+    "index": 220,
+    "date": "2/1/2018",
+    "value": 325363.6364,
+    "group": "MD"
+  },
+  {
+    "index": 221,
+    "date": "1/1/2012",
+    "value": 274000,
+    "group": "NC"
+  },
+  {
+    "index": 222,
+    "date": "2/1/2012",
+    "value": 271285.7143,
+    "group": "NC"
+  },
+  {
+    "index": 223,
+    "date": "3/1/2012",
+    "value": 278571.4286,
+    "group": "NC"
+  },
+  {
+    "index": 224,
+    "date": "4/1/2012",
+    "value": 262000,
+    "group": "NC"
+  },
+  {
+    "index": 225,
+    "date": "5/1/2012",
+    "value": 273857.1429,
+    "group": "NC"
+  },
+  {
+    "index": 226,
+    "date": "6/1/2012",
+    "value": 291714.2857,
+    "group": "NC"
+  },
+  {
+    "index": 227,
+    "date": "7/1/2012",
+    "value": 294857.1429,
+    "group": "NC"
+  },
+  {
+    "index": 228,
+    "date": "8/1/2012",
+    "value": 284571.4286,
+    "group": "NC"
+  },
+  {
+    "index": 229,
+    "date": "9/1/2012",
+    "value": 287285.7143,
+    "group": "NC"
+  },
+  {
+    "index": 230,
+    "date": "10/1/2012",
+    "value": 256857.1429,
+    "group": "NC"
+  },
+  {
+    "index": 231,
+    "date": "11/1/2012",
+    "value": 274428.5714,
+    "group": "NC"
+  },
+  {
+    "index": 232,
+    "date": "12/1/2012",
+    "value": 287571.4286,
+    "group": "NC"
+  },
+  {
+    "index": 233,
+    "date": "1/1/2013",
+    "value": 220600,
+    "group": "NC"
+  },
+  {
+    "index": 234,
+    "date": "2/1/2013",
+    "value": 234600,
+    "group": "NC"
+  },
+  {
+    "index": 235,
+    "date": "3/1/2013",
+    "value": 237700,
+    "group": "NC"
+  },
+  {
+    "index": 236,
+    "date": "4/1/2013",
+    "value": 243100,
+    "group": "NC"
+  },
+  {
+    "index": 237,
+    "date": "5/1/2013",
+    "value": 262800,
+    "group": "NC"
+  },
+  {
+    "index": 238,
+    "date": "6/1/2013",
+    "value": 272400,
+    "group": "NC"
+  },
+  {
+    "index": 239,
+    "date": "7/1/2013",
+    "value": 254800,
+    "group": "NC"
+  },
+  {
+    "index": 240,
+    "date": "8/1/2013",
+    "value": 255500,
+    "group": "NC"
+  },
+  {
+    "index": 241,
+    "date": "9/1/2013",
+    "value": 267600,
+    "group": "NC"
+  },
+  {
+    "index": 242,
+    "date": "10/1/2013",
+    "value": 257100,
+    "group": "NC"
+  },
+  {
+    "index": 243,
+    "date": "11/1/2013",
+    "value": 252100,
+    "group": "NC"
+  },
+  {
+    "index": 244,
+    "date": "12/1/2013",
+    "value": 268000,
+    "group": "NC"
+  },
+  {
+    "index": 245,
+    "date": "1/1/2014",
+    "value": 237700,
+    "group": "NC"
+  },
+  {
+    "index": 246,
+    "date": "2/1/2014",
+    "value": 236100,
+    "group": "NC"
+  },
+  {
+    "index": 247,
+    "date": "3/1/2014",
+    "value": 269000,
+    "group": "NC"
+  },
+  {
+    "index": 248,
+    "date": "4/1/2014",
+    "value": 265900,
+    "group": "NC"
+  },
+  {
+    "index": 249,
+    "date": "5/1/2014",
+    "value": 246727.2727,
+    "group": "NC"
+  },
+  {
+    "index": 250,
+    "date": "6/1/2014",
+    "value": 265272.7273,
+    "group": "NC"
+  },
+  {
+    "index": 251,
+    "date": "7/1/2014",
+    "value": 261727.2727,
+    "group": "NC"
+  },
+  {
+    "index": 252,
+    "date": "8/1/2014",
+    "value": 249363.6364,
+    "group": "NC"
+  },
+  {
+    "index": 253,
+    "date": "9/1/2014",
+    "value": 241000,
+    "group": "NC"
+  },
+  {
+    "index": 254,
+    "date": "10/1/2014",
+    "value": 246636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 255,
+    "date": "11/1/2014",
+    "value": 243454.5455,
+    "group": "NC"
+  },
+  {
+    "index": 256,
+    "date": "12/1/2014",
+    "value": 261454.5455,
+    "group": "NC"
+  },
+  {
+    "index": 257,
+    "date": "1/1/2015",
+    "value": 247363.6364,
+    "group": "NC"
+  },
+  {
+    "index": 258,
+    "date": "2/1/2015",
+    "value": 247727.2727,
+    "group": "NC"
+  },
+  {
+    "index": 259,
+    "date": "3/1/2015",
+    "value": 263272.7273,
+    "group": "NC"
+  },
+  {
+    "index": 260,
+    "date": "4/1/2015",
+    "value": 264545.4545,
+    "group": "NC"
+  },
+  {
+    "index": 261,
+    "date": "5/1/2015",
+    "value": 275636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 262,
+    "date": "6/1/2015",
+    "value": 279181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 263,
+    "date": "7/1/2015",
+    "value": 282363.6364,
+    "group": "NC"
+  },
+  {
+    "index": 264,
+    "date": "8/1/2015",
+    "value": 272909.0909,
+    "group": "NC"
+  },
+  {
+    "index": 265,
+    "date": "9/1/2015",
+    "value": 260181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 266,
+    "date": "10/1/2015",
+    "value": 269818.1818,
+    "group": "NC"
+  },
+  {
+    "index": 267,
+    "date": "11/1/2015",
+    "value": 265181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 268,
+    "date": "12/1/2015",
+    "value": 270727.2727,
+    "group": "NC"
+  },
+  {
+    "index": 269,
+    "date": "1/1/2016",
+    "value": 249454.5455,
+    "group": "NC"
+  },
+  {
+    "index": 270,
+    "date": "2/1/2016",
+    "value": 262272.7273,
+    "group": "NC"
+  },
+  {
+    "index": 271,
+    "date": "3/1/2016",
+    "value": 282454.5455,
+    "group": "NC"
+  },
+  {
+    "index": 272,
+    "date": "4/1/2016",
+    "value": 283181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 273,
+    "date": "5/1/2016",
+    "value": 290000,
+    "group": "NC"
+  },
+  {
+    "index": 274,
+    "date": "6/1/2016",
+    "value": 301181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 275,
+    "date": "7/1/2016",
+    "value": 291545.4545,
+    "group": "NC"
+  },
+  {
+    "index": 276,
+    "date": "8/1/2016",
+    "value": 295636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 277,
+    "date": "9/1/2016",
+    "value": 275636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 278,
+    "date": "10/1/2016",
+    "value": 277727.2727,
+    "group": "NC"
+  },
+  {
+    "index": 279,
+    "date": "11/1/2016",
+    "value": 292090.9091,
+    "group": "NC"
+  },
+  {
+    "index": 280,
+    "date": "12/1/2016",
+    "value": 302181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 281,
+    "date": "1/1/2017",
+    "value": 278363.6364,
+    "group": "NC"
+  },
+  {
+    "index": 282,
+    "date": "2/1/2017",
+    "value": 287636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 283,
+    "date": "3/1/2017",
+    "value": 297090.9091,
+    "group": "NC"
+  },
+  {
+    "index": 284,
+    "date": "4/1/2017",
+    "value": 307636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 285,
+    "date": "5/1/2017",
+    "value": 315000,
+    "group": "NC"
+  },
+  {
+    "index": 286,
+    "date": "6/1/2017",
+    "value": 320090.9091,
+    "group": "NC"
+  },
+  {
+    "index": 287,
+    "date": "7/1/2017",
+    "value": 321181.8182,
+    "group": "NC"
+  },
+  {
+    "index": 288,
+    "date": "8/1/2017",
+    "value": 305090.9091,
+    "group": "NC"
+  },
+  {
+    "index": 289,
+    "date": "9/1/2017",
+    "value": 304636.3636,
+    "group": "NC"
+  },
+  {
+    "index": 290,
+    "date": "10/1/2017",
+    "value": 304090.9091,
+    "group": "NC"
+  },
+  {
+    "index": 291,
+    "date": "11/1/2017",
+    "value": 304909.0909,
+    "group": "NC"
+  },
+  {
+    "index": 292,
+    "date": "12/1/2017",
+    "value": 300545.4545,
+    "group": "NC"
+  },
+  {
+    "index": 293,
+    "date": "1/1/2018",
+    "value": 300000,
+    "group": "NC"
+  },
+  {
+    "index": 294,
+    "date": "2/1/2018",
+    "value": 309272.7273,
+    "group": "NC"
+  },
+  {
+    "index": 295,
+    "date": "1/1/2009",
+    "value": 183545.4545,
+    "group": "PA"
+  },
+  {
+    "index": 296,
+    "date": "2/1/2009",
+    "value": 174181.8182,
+    "group": "PA"
+  },
+  {
+    "index": 297,
+    "date": "3/1/2009",
+    "value": 177181.8182,
+    "group": "PA"
+  },
+  {
+    "index": 298,
+    "date": "4/1/2009",
+    "value": 182363.6364,
+    "group": "PA"
+  },
+  {
+    "index": 299,
+    "date": "5/1/2009",
+    "value": 189818.1818,
+    "group": "PA"
+  },
+  {
+    "index": 300,
+    "date": "6/1/2009",
+    "value": 204909.0909,
+    "group": "PA"
+  },
+  {
+    "index": 301,
+    "date": "7/1/2009",
+    "value": 211363.6364,
+    "group": "PA"
+  },
+  {
+    "index": 302,
+    "date": "8/1/2009",
+    "value": 208818.1818,
+    "group": "PA"
+  },
+  {
+    "index": 303,
+    "date": "9/1/2009",
+    "value": 197727.2727,
+    "group": "PA"
+  },
+  {
+    "index": 304,
+    "date": "10/1/2009",
+    "value": 189454.5455,
+    "group": "PA"
+  },
+  {
+    "index": 305,
+    "date": "11/1/2009",
+    "value": 188545.4545,
+    "group": "PA"
+  },
+  {
+    "index": 306,
+    "date": "12/1/2009",
+    "value": 201545.4545,
+    "group": "PA"
+  },
+  {
+    "index": 307,
+    "date": "1/1/2010",
+    "value": 192000,
+    "group": "PA"
+  },
+  {
+    "index": 308,
+    "date": "2/1/2010",
+    "value": 180583.3333,
+    "group": "PA"
+  },
+  {
+    "index": 309,
+    "date": "3/1/2010",
+    "value": 188500,
+    "group": "PA"
+  },
+  {
+    "index": 310,
+    "date": "4/1/2010",
+    "value": 196583.3333,
+    "group": "PA"
+  },
+  {
+    "index": 311,
+    "date": "5/1/2010",
+    "value": 193833.3333,
+    "group": "PA"
+  },
+  {
+    "index": 312,
+    "date": "6/1/2010",
+    "value": 208833.3333,
+    "group": "PA"
+  },
+  {
+    "index": 313,
+    "date": "7/1/2010",
+    "value": 211750,
+    "group": "PA"
+  },
+  {
+    "index": 314,
+    "date": "8/1/2010",
+    "value": 215333.3333,
+    "group": "PA"
+  },
+  {
+    "index": 315,
+    "date": "9/1/2010",
+    "value": 206166.6667,
+    "group": "PA"
+  },
+  {
+    "index": 316,
+    "date": "10/1/2010",
+    "value": 198250,
+    "group": "PA"
+  },
+  {
+    "index": 317,
+    "date": "11/1/2010",
+    "value": 196000,
+    "group": "PA"
+  },
+  {
+    "index": 318,
+    "date": "12/1/2010",
+    "value": 194250,
+    "group": "PA"
+  },
+  {
+    "index": 319,
+    "date": "1/1/2011",
+    "value": 184916.6667,
+    "group": "PA"
+  },
+  {
+    "index": 320,
+    "date": "2/1/2011",
+    "value": 188166.6667,
+    "group": "PA"
+  },
+  {
+    "index": 321,
+    "date": "3/1/2011",
+    "value": 184583.3333,
+    "group": "PA"
+  },
+  {
+    "index": 322,
+    "date": "4/1/2011",
+    "value": 183500,
+    "group": "PA"
+  },
+  {
+    "index": 323,
+    "date": "5/1/2011",
+    "value": 191750,
+    "group": "PA"
+  },
+  {
+    "index": 324,
+    "date": "6/1/2011",
+    "value": 207166.6667,
+    "group": "PA"
+  },
+  {
+    "index": 325,
+    "date": "7/1/2011",
+    "value": 204333.3333,
+    "group": "PA"
+  },
+  {
+    "index": 326,
+    "date": "8/1/2011",
+    "value": 197666.6667,
+    "group": "PA"
+  },
+  {
+    "index": 327,
+    "date": "9/1/2011",
+    "value": 198416.6667,
+    "group": "PA"
+  },
+  {
+    "index": 328,
+    "date": "10/1/2011",
+    "value": 182083.3333,
+    "group": "PA"
+  },
+  {
+    "index": 329,
+    "date": "11/1/2011",
+    "value": 184666.6667,
+    "group": "PA"
+  },
+  {
+    "index": 330,
+    "date": "12/1/2011",
+    "value": 184666.6667,
+    "group": "PA"
+  },
+  {
+    "index": 331,
+    "date": "1/1/2012",
+    "value": 204288.4615,
+    "group": "PA"
+  },
+  {
+    "index": 332,
+    "date": "2/1/2012",
+    "value": 203596.1538,
+    "group": "PA"
+  },
+  {
+    "index": 333,
+    "date": "3/1/2012",
+    "value": 211807.6923,
+    "group": "PA"
+  },
+  {
+    "index": 334,
+    "date": "4/1/2012",
+    "value": 222192.3077,
+    "group": "PA"
+  },
+  {
+    "index": 335,
+    "date": "5/1/2012",
+    "value": 218826.9231,
+    "group": "PA"
+  },
+  {
+    "index": 336,
+    "date": "6/1/2012",
+    "value": 237307.6923,
+    "group": "PA"
+  },
+  {
+    "index": 337,
+    "date": "7/1/2012",
+    "value": 234538.4615,
+    "group": "PA"
+  },
+  {
+    "index": 338,
+    "date": "8/1/2012",
+    "value": 232730.7692,
+    "group": "PA"
+  },
+  {
+    "index": 339,
+    "date": "9/1/2012",
+    "value": 221269.2308,
+    "group": "PA"
+  },
+  {
+    "index": 340,
+    "date": "10/1/2012",
+    "value": 222134.6154,
+    "group": "PA"
+  },
+  {
+    "index": 341,
+    "date": "11/1/2012",
+    "value": 209346.1538,
+    "group": "PA"
+  },
+  {
+    "index": 342,
+    "date": "12/1/2012",
+    "value": 223807.6923,
+    "group": "PA"
+  },
+  {
+    "index": 343,
+    "date": "1/1/2013",
+    "value": 211250,
+    "group": "PA"
+  },
+  {
+    "index": 344,
+    "date": "2/1/2013",
+    "value": 206500,
+    "group": "PA"
+  },
+  {
+    "index": 345,
+    "date": "3/1/2013",
+    "value": 214769.2308,
+    "group": "PA"
+  },
+  {
+    "index": 346,
+    "date": "4/1/2013",
+    "value": 225826.9231,
+    "group": "PA"
+  },
+  {
+    "index": 347,
+    "date": "5/1/2013",
+    "value": 223903.8462,
+    "group": "PA"
+  },
+  {
+    "index": 348,
+    "date": "6/1/2013",
+    "value": 242596.1538,
+    "group": "PA"
+  },
+  {
+    "index": 349,
+    "date": "7/1/2013",
+    "value": 246692.3077,
+    "group": "PA"
+  },
+  {
+    "index": 350,
+    "date": "8/1/2013",
+    "value": 242692.3077,
+    "group": "PA"
+  },
+  {
+    "index": 351,
+    "date": "9/1/2013",
+    "value": 229673.0769,
+    "group": "PA"
+  },
+  {
+    "index": 352,
+    "date": "10/1/2013",
+    "value": 220846.1538,
+    "group": "PA"
+  },
+  {
+    "index": 353,
+    "date": "11/1/2013",
+    "value": 223076.9231,
+    "group": "PA"
+  },
+  {
+    "index": 354,
+    "date": "12/1/2013",
+    "value": 223076.9231,
+    "group": "PA"
+  },
+  {
+    "index": 355,
+    "date": "1/1/2014",
+    "value": 224692.3077,
+    "group": "PA"
+  },
+  {
+    "index": 356,
+    "date": "2/1/2014",
+    "value": 217365.3846,
+    "group": "PA"
+  },
+  {
+    "index": 357,
+    "date": "3/1/2014",
+    "value": 207038.4615,
+    "group": "PA"
+  },
+  {
+    "index": 358,
+    "date": "4/1/2014",
+    "value": 225807.6923,
+    "group": "PA"
+  },
+  {
+    "index": 359,
+    "date": "5/1/2014",
+    "value": 225346.1538,
+    "group": "PA"
+  },
+  {
+    "index": 360,
+    "date": "6/1/2014",
+    "value": 241846.1538,
+    "group": "PA"
+  },
+  {
+    "index": 361,
+    "date": "7/1/2014",
+    "value": 249750,
+    "group": "PA"
+  },
+  {
+    "index": 362,
+    "date": "8/1/2014",
+    "value": 245653.8462,
+    "group": "PA"
+  },
+  {
+    "index": 363,
+    "date": "9/1/2014",
+    "value": 227807.6923,
+    "group": "PA"
+  },
+  {
+    "index": 364,
+    "date": "10/1/2014",
+    "value": 225076.9231,
+    "group": "PA"
+  },
+  {
+    "index": 365,
+    "date": "11/1/2014",
+    "value": 226192.3077,
+    "group": "PA"
+  },
+  {
+    "index": 366,
+    "date": "12/1/2014",
+    "value": 223942.3077,
+    "group": "PA"
+  },
+  {
+    "index": 367,
+    "date": "1/1/2015",
+    "value": 221230.7692,
+    "group": "PA"
+  },
+  {
+    "index": 368,
+    "date": "2/1/2015",
+    "value": 213961.5385,
+    "group": "PA"
+  },
+  {
+    "index": 369,
+    "date": "3/1/2015",
+    "value": 229307.6923,
+    "group": "PA"
+  },
+  {
+    "index": 370,
+    "date": "4/1/2015",
+    "value": 233923.0769,
+    "group": "PA"
+  },
+  {
+    "index": 371,
+    "date": "5/1/2015",
+    "value": 238096.1538,
+    "group": "PA"
+  },
+  {
+    "index": 372,
+    "date": "6/1/2015",
+    "value": 244692.3077,
+    "group": "PA"
+  },
+  {
+    "index": 373,
+    "date": "7/1/2015",
+    "value": 248826.9231,
+    "group": "PA"
+  },
+  {
+    "index": 374,
+    "date": "8/1/2015",
+    "value": 251000,
+    "group": "PA"
+  },
+  {
+    "index": 375,
+    "date": "9/1/2015",
+    "value": 230923.0769,
+    "group": "PA"
+  },
+  {
+    "index": 376,
+    "date": "10/1/2015",
+    "value": 232365.3846,
+    "group": "PA"
+  },
+  {
+    "index": 377,
+    "date": "11/1/2015",
+    "value": 237288.4615,
+    "group": "PA"
+  },
+  {
+    "index": 378,
+    "date": "12/1/2015",
+    "value": 227173.0769,
+    "group": "PA"
+  },
+  {
+    "index": 379,
+    "date": "1/1/2016",
+    "value": 233673.0769,
+    "group": "PA"
+  },
+  {
+    "index": 380,
+    "date": "2/1/2016",
+    "value": 221653.8462,
+    "group": "PA"
+  },
+  {
+    "index": 381,
+    "date": "3/1/2016",
+    "value": 221884.6154,
+    "group": "PA"
+  },
+  {
+    "index": 382,
+    "date": "4/1/2016",
+    "value": 237807.6923,
+    "group": "PA"
+  },
+  {
+    "index": 383,
+    "date": "5/1/2016",
+    "value": 241538.4615,
+    "group": "PA"
+  },
+  {
+    "index": 384,
+    "date": "6/1/2016",
+    "value": 250769.2308,
+    "group": "PA"
+  },
+  {
+    "index": 385,
+    "date": "7/1/2016",
+    "value": 251673.0769,
+    "group": "PA"
+  },
+  {
+    "index": 386,
+    "date": "8/1/2016",
+    "value": 250000,
+    "group": "PA"
+  },
+  {
+    "index": 387,
+    "date": "9/1/2016",
+    "value": 244673.0769,
+    "group": "PA"
+  },
+  {
+    "index": 388,
+    "date": "10/1/2016",
+    "value": 241192.3077,
+    "group": "PA"
+  },
+  {
+    "index": 389,
+    "date": "11/1/2016",
+    "value": 240115.3846,
+    "group": "PA"
+  },
+  {
+    "index": 390,
+    "date": "12/1/2016",
+    "value": 223942.3077,
+    "group": "PA"
+  },
+  {
+    "index": 391,
+    "date": "1/1/2017",
+    "value": 237269.2308,
+    "group": "PA"
+  },
+  {
+    "index": 392,
+    "date": "2/1/2017",
+    "value": 233480.7692,
+    "group": "PA"
+  },
+  {
+    "index": 393,
+    "date": "3/1/2017",
+    "value": 245173.0769,
+    "group": "PA"
+  },
+  {
+    "index": 394,
+    "date": "4/1/2017",
+    "value": 241326.9231,
+    "group": "PA"
+  },
+  {
+    "index": 395,
+    "date": "5/1/2017",
+    "value": 256019.2308,
+    "group": "PA"
+  },
+  {
+    "index": 396,
+    "date": "6/1/2017",
+    "value": 264807.6923,
+    "group": "PA"
+  },
+  {
+    "index": 397,
+    "date": "7/1/2017",
+    "value": 266788.4615,
+    "group": "PA"
+  },
+  {
+    "index": 398,
+    "date": "8/1/2017",
+    "value": 267173.0769,
+    "group": "PA"
+  },
+  {
+    "index": 399,
+    "date": "9/1/2017",
+    "value": 256326.9231,
+    "group": "PA"
+  },
+  {
+    "index": 400,
+    "date": "10/1/2017",
+    "value": 251884.6154,
+    "group": "PA"
+  },
+  {
+    "index": 401,
+    "date": "11/1/2017",
+    "value": 257230.7692,
+    "group": "PA"
+  },
+  {
+    "index": 402,
+    "date": "12/1/2017",
+    "value": 247692.3077,
+    "group": "PA"
+  },
+  {
+    "index": 403,
+    "date": "1/1/2018",
+    "value": 251038.4615,
+    "group": "PA"
+  },
+  {
+    "index": 404,
+    "date": "2/1/2018",
+    "value": 259480.7692,
+    "group": "PA"
+  },
+  {
+    "index": 405,
+    "date": "1/1/2009",
+    "value": 250423.0769,
+    "group": "VA"
+  },
+  {
+    "index": 406,
+    "date": "2/1/2009",
+    "value": 252115.3846,
+    "group": "VA"
+  },
+  {
+    "index": 407,
+    "date": "3/1/2009",
+    "value": 273481.4815,
+    "group": "VA"
+  },
+  {
+    "index": 408,
+    "date": "4/1/2009",
+    "value": 291307.6923,
+    "group": "VA"
+  },
+  {
+    "index": 409,
+    "date": "5/1/2009",
+    "value": 294518.5185,
+    "group": "VA"
+  },
+  {
+    "index": 410,
+    "date": "6/1/2009",
+    "value": 290296.2963,
+    "group": "VA"
+  },
+  {
+    "index": 411,
+    "date": "7/1/2009",
+    "value": 287814.8148,
+    "group": "VA"
+  },
+  {
+    "index": 412,
+    "date": "8/1/2009",
+    "value": 312185.1852,
+    "group": "VA"
+  },
+  {
+    "index": 413,
+    "date": "9/1/2009",
+    "value": 278423.0769,
+    "group": "VA"
+  },
+  {
+    "index": 414,
+    "date": "10/1/2009",
+    "value": 286851.8519,
+    "group": "VA"
+  },
+  {
+    "index": 415,
+    "date": "11/1/2009",
+    "value": 276296.2963,
+    "group": "VA"
+  },
+  {
+    "index": 416,
+    "date": "12/1/2009",
+    "value": 306740.7407,
+    "group": "VA"
+  },
+  {
+    "index": 417,
+    "date": "1/1/2010",
+    "value": 275703.7037,
+    "group": "VA"
+  },
+  {
+    "index": 418,
+    "date": "2/1/2010",
+    "value": 289962.963,
+    "group": "VA"
+  },
+  {
+    "index": 419,
+    "date": "3/1/2010",
+    "value": 287185.1852,
+    "group": "VA"
+  },
+  {
+    "index": 420,
+    "date": "4/1/2010",
+    "value": 268333.3333,
+    "group": "VA"
+  },
+  {
+    "index": 421,
+    "date": "5/1/2010",
+    "value": 298461.5385,
+    "group": "VA"
+  },
+  {
+    "index": 422,
+    "date": "6/1/2010",
+    "value": 302074.0741,
+    "group": "VA"
+  },
+  {
+    "index": 423,
+    "date": "7/1/2010",
+    "value": 306148.1481,
+    "group": "VA"
+  },
+  {
+    "index": 424,
+    "date": "8/1/2010",
+    "value": 307629.6296,
+    "group": "VA"
+  },
+  {
+    "index": 425,
+    "date": "9/1/2010",
+    "value": 287370.3704,
+    "group": "VA"
+  },
+  {
+    "index": 426,
+    "date": "10/1/2010",
+    "value": 315259.2593,
+    "group": "VA"
+  },
+  {
+    "index": 427,
+    "date": "11/1/2010",
+    "value": 276185.1852,
+    "group": "VA"
+  },
+  {
+    "index": 428,
+    "date": "12/1/2010",
+    "value": 293370.3704,
+    "group": "VA"
+  },
+  {
+    "index": 429,
+    "date": "1/1/2011",
+    "value": 293500,
+    "group": "VA"
+  },
+  {
+    "index": 430,
+    "date": "2/1/2011",
+    "value": 277961.5385,
+    "group": "VA"
+  },
+  {
+    "index": 431,
+    "date": "3/1/2011",
+    "value": 266592.5926,
+    "group": "VA"
+  },
+  {
+    "index": 432,
+    "date": "4/1/2011",
+    "value": 299230.7692,
+    "group": "VA"
+  },
+  {
+    "index": 433,
+    "date": "5/1/2011",
+    "value": 282925.9259,
+    "group": "VA"
+  },
+  {
+    "index": 434,
+    "date": "6/1/2011",
+    "value": 309925.9259,
+    "group": "VA"
+  },
+  {
+    "index": 435,
+    "date": "7/1/2011",
+    "value": 304074.0741,
+    "group": "VA"
+  },
+  {
+    "index": 436,
+    "date": "8/1/2011",
+    "value": 287962.963,
+    "group": "VA"
+  },
+  {
+    "index": 437,
+    "date": "9/1/2011",
+    "value": 289777.7778,
+    "group": "VA"
+  },
+  {
+    "index": 438,
+    "date": "10/1/2011",
+    "value": 289518.5185,
+    "group": "VA"
+  },
+  {
+    "index": 439,
+    "date": "11/1/2011",
+    "value": 269407.4074,
+    "group": "VA"
+  },
+  {
+    "index": 440,
+    "date": "12/1/2011",
+    "value": 286296.2963,
+    "group": "VA"
+  },
+  {
+    "index": 441,
+    "date": "1/1/2012",
+    "value": 377900,
+    "group": "VA"
+  },
+  {
+    "index": 442,
+    "date": "2/1/2012",
+    "value": 381318.8406,
+    "group": "VA"
+  },
+  {
+    "index": 443,
+    "date": "3/1/2012",
+    "value": 385657.1429,
+    "group": "VA"
+  },
+  {
+    "index": 444,
+    "date": "4/1/2012",
+    "value": 397642.8571,
+    "group": "VA"
+  },
+  {
+    "index": 445,
+    "date": "5/1/2012",
+    "value": 407557.1429,
+    "group": "VA"
+  },
+  {
+    "index": 446,
+    "date": "6/1/2012",
+    "value": 413585.7143,
+    "group": "VA"
+  },
+  {
+    "index": 447,
+    "date": "7/1/2012",
+    "value": 420142.8571,
+    "group": "VA"
+  },
+  {
+    "index": 448,
+    "date": "8/1/2012",
+    "value": 411871.4286,
+    "group": "VA"
+  },
+  {
+    "index": 449,
+    "date": "9/1/2012",
+    "value": 411114.2857,
+    "group": "VA"
+  },
+  {
+    "index": 450,
+    "date": "10/1/2012",
+    "value": 407161.7647,
+    "group": "VA"
+  },
+  {
+    "index": 451,
+    "date": "11/1/2012",
+    "value": 418159.4203,
+    "group": "VA"
+  },
+  {
+    "index": 452,
+    "date": "12/1/2012",
+    "value": 416500,
+    "group": "VA"
+  },
+  {
+    "index": 453,
+    "date": "1/1/2013",
+    "value": 397942.029,
+    "group": "VA"
+  },
+  {
+    "index": 454,
+    "date": "2/1/2013",
+    "value": 420771.4286,
+    "group": "VA"
+  },
+  {
+    "index": 455,
+    "date": "3/1/2013",
+    "value": 426700,
+    "group": "VA"
+  },
+  {
+    "index": 456,
+    "date": "4/1/2013",
+    "value": 431275.3623,
+    "group": "VA"
+  },
+  {
+    "index": 457,
+    "date": "5/1/2013",
+    "value": 443550.7246,
+    "group": "VA"
+  },
+  {
+    "index": 458,
+    "date": "6/1/2013",
+    "value": 454328.5714,
+    "group": "VA"
+  },
+  {
+    "index": 459,
+    "date": "7/1/2013",
+    "value": 443185.7143,
+    "group": "VA"
+  },
+  {
+    "index": 460,
+    "date": "8/1/2013",
+    "value": 450557.1429,
+    "group": "VA"
+  },
+  {
+    "index": 461,
+    "date": "9/1/2013",
+    "value": 440585.7143,
+    "group": "VA"
+  },
+  {
+    "index": 462,
+    "date": "10/1/2013",
+    "value": 436314.2857,
+    "group": "VA"
+  },
+  {
+    "index": 463,
+    "date": "11/1/2013",
+    "value": 433057.1429,
+    "group": "VA"
+  },
+  {
+    "index": 464,
+    "date": "12/1/2013",
+    "value": 452800,
+    "group": "VA"
+  },
+  {
+    "index": 465,
+    "date": "1/1/2014",
+    "value": 402243.2432,
+    "group": "VA"
+  },
+  {
+    "index": 466,
+    "date": "2/1/2014",
+    "value": 431381.5789,
+    "group": "VA"
+  },
+  {
+    "index": 467,
+    "date": "3/1/2014",
+    "value": 428092.1053,
+    "group": "VA"
+  },
+  {
+    "index": 468,
+    "date": "4/1/2014",
+    "value": 434026.3158,
+    "group": "VA"
+  },
+  {
+    "index": 469,
+    "date": "5/1/2014",
+    "value": 441578.9474,
+    "group": "VA"
+  },
+  {
+    "index": 470,
+    "date": "6/1/2014",
+    "value": 448118.4211,
+    "group": "VA"
+  },
+  {
+    "index": 471,
+    "date": "7/1/2014",
+    "value": 443064.9351,
+    "group": "VA"
+  },
+  {
+    "index": 472,
+    "date": "8/1/2014",
+    "value": 441090.9091,
+    "group": "VA"
+  },
+  {
+    "index": 473,
+    "date": "9/1/2014",
+    "value": 444171.0526,
+    "group": "VA"
+  },
+  {
+    "index": 474,
+    "date": "10/1/2014",
+    "value": 419526.3158,
+    "group": "VA"
+  },
+  {
+    "index": 475,
+    "date": "11/1/2014",
+    "value": 423868.4211,
+    "group": "VA"
+  },
+  {
+    "index": 476,
+    "date": "12/1/2014",
+    "value": 434657.8947,
+    "group": "VA"
+  },
+  {
+    "index": 477,
+    "date": "1/1/2015",
+    "value": 435500,
+    "group": "VA"
+  },
+  {
+    "index": 478,
+    "date": "2/1/2015",
+    "value": 421920,
+    "group": "VA"
+  },
+  {
+    "index": 479,
+    "date": "3/1/2015",
+    "value": 429092.1053,
+    "group": "VA"
+  },
+  {
+    "index": 480,
+    "date": "4/1/2015",
+    "value": 436592.1053,
+    "group": "VA"
+  },
+  {
+    "index": 481,
+    "date": "5/1/2015",
+    "value": 451467.5325,
+    "group": "VA"
+  },
+  {
+    "index": 482,
+    "date": "6/1/2015",
+    "value": 445223.6842,
+    "group": "VA"
+  },
+  {
+    "index": 483,
+    "date": "7/1/2015",
+    "value": 441116.8831,
+    "group": "VA"
+  },
+  {
+    "index": 484,
+    "date": "8/1/2015",
+    "value": 438907.8947,
+    "group": "VA"
+  },
+  {
+    "index": 485,
+    "date": "9/1/2015",
+    "value": 435197.3684,
+    "group": "VA"
+  },
+  {
+    "index": 486,
+    "date": "10/1/2015",
+    "value": 430289.4737,
+    "group": "VA"
+  },
+  {
+    "index": 487,
+    "date": "11/1/2015",
+    "value": 439328.9474,
+    "group": "VA"
+  },
+  {
+    "index": 488,
+    "date": "12/1/2015",
+    "value": 433947.3684,
+    "group": "VA"
+  },
+  {
+    "index": 489,
+    "date": "1/1/2016",
+    "value": 432671.0526,
+    "group": "VA"
+  },
+  {
+    "index": 490,
+    "date": "2/1/2016",
+    "value": 430171.0526,
+    "group": "VA"
+  },
+  {
+    "index": 491,
+    "date": "3/1/2016",
+    "value": 446092.1053,
+    "group": "VA"
+  },
+  {
+    "index": 492,
+    "date": "4/1/2016",
+    "value": 445697.3684,
+    "group": "VA"
+  },
+  {
+    "index": 493,
+    "date": "5/1/2016",
+    "value": 453947.3684,
+    "group": "VA"
+  },
+  {
+    "index": 494,
+    "date": "6/1/2016",
+    "value": 458558.4416,
+    "group": "VA"
+  },
+  {
+    "index": 495,
+    "date": "7/1/2016",
+    "value": 465947.3684,
+    "group": "VA"
+  },
+  {
+    "index": 496,
+    "date": "8/1/2016",
+    "value": 453012.987,
+    "group": "VA"
+  },
+  {
+    "index": 497,
+    "date": "9/1/2016",
+    "value": 433038.961,
+    "group": "VA"
+  },
+  {
+    "index": 498,
+    "date": "10/1/2016",
+    "value": 447025.974,
+    "group": "VA"
+  },
+  {
+    "index": 499,
+    "date": "11/1/2016",
+    "value": 442118.4211,
+    "group": "VA"
+  },
+  {
+    "index": 500,
+    "date": "12/1/2016",
+    "value": 453592.1053,
+    "group": "VA"
+  },
+  {
+    "index": 501,
+    "date": "1/1/2017",
+    "value": 436144.7368,
+    "group": "VA"
+  },
+  {
+    "index": 502,
+    "date": "2/1/2017",
+    "value": 442697.3684,
+    "group": "VA"
+  },
+  {
+    "index": 503,
+    "date": "3/1/2017",
+    "value": 455171.0526,
+    "group": "VA"
+  },
+  {
+    "index": 504,
+    "date": "4/1/2017",
+    "value": 463407.8947,
+    "group": "VA"
+  },
+  {
+    "index": 505,
+    "date": "5/1/2017",
+    "value": 467250,
+    "group": "VA"
+  },
+  {
+    "index": 506,
+    "date": "6/1/2017",
+    "value": 464792.2078,
+    "group": "VA"
+  },
+  {
+    "index": 507,
+    "date": "7/1/2017",
+    "value": 466727.2727,
+    "group": "VA"
+  },
+  {
+    "index": 508,
+    "date": "8/1/2017",
+    "value": 463592.1053,
+    "group": "VA"
+  },
+  {
+    "index": 509,
+    "date": "9/1/2017",
+    "value": 456171.0526,
+    "group": "VA"
+  },
+  {
+    "index": 510,
+    "date": "10/1/2017",
+    "value": 452552.6316,
+    "group": "VA"
+  },
+  {
+    "index": 511,
+    "date": "11/1/2017",
+    "value": 463605.2632,
+    "group": "VA"
+  },
+  {
+    "index": 512,
+    "date": "12/1/2017",
+    "value": 470526.3158,
+    "group": "VA"
+  },
+  {
+    "index": 513,
+    "date": "1/1/2018",
+    "value": 459842.1053,
+    "group": "VA"
+  },
+  {
+    "index": 514,
+    "date": "2/1/2018",
+    "value": 455866.6667,
+    "group": "VA"
+  },
+  {
+    "index": 515,
+    "date": "1/1/2009",
+    "value": 151250,
+    "group": "WV"
+  },
+  {
+    "index": 516,
+    "date": "2/1/2009",
+    "value": 155000,
+    "group": "WV"
+  },
+  {
+    "index": 517,
+    "date": "3/1/2009",
+    "value": 158500,
+    "group": "WV"
+  },
+  {
+    "index": 518,
+    "date": "4/1/2009",
+    "value": 174750,
+    "group": "WV"
+  },
+  {
+    "index": 519,
+    "date": "5/1/2009",
+    "value": 158000,
+    "group": "WV"
+  },
+  {
+    "index": 520,
+    "date": "6/1/2009",
+    "value": 174500,
+    "group": "WV"
+  },
+  {
+    "index": 521,
+    "date": "7/1/2009",
+    "value": 171750,
+    "group": "WV"
+  },
+  {
+    "index": 522,
+    "date": "8/1/2009",
+    "value": 153500,
+    "group": "WV"
+  },
+  {
+    "index": 523,
+    "date": "9/1/2009",
+    "value": 155000,
+    "group": "WV"
+  },
+  {
+    "index": 524,
+    "date": "10/1/2009",
+    "value": 148750,
+    "group": "WV"
+  },
+  {
+    "index": 525,
+    "date": "11/1/2009",
+    "value": 149500,
+    "group": "WV"
+  },
+  {
+    "index": 526,
+    "date": "12/1/2009",
+    "value": 160250,
+    "group": "WV"
+  },
+  {
+    "index": 527,
+    "date": "1/1/2010",
+    "value": 135000,
+    "group": "WV"
+  },
+  {
+    "index": 528,
+    "date": "2/1/2010",
+    "value": 161750,
+    "group": "WV"
+  },
+  {
+    "index": 529,
+    "date": "3/1/2010",
+    "value": 153750,
+    "group": "WV"
+  },
+  {
+    "index": 530,
+    "date": "4/1/2010",
+    "value": 123500,
+    "group": "WV"
+  },
+  {
+    "index": 531,
+    "date": "5/1/2010",
+    "value": 150250,
+    "group": "WV"
+  },
+  {
+    "index": 532,
+    "date": "6/1/2010",
+    "value": 150250,
+    "group": "WV"
+  },
+  {
+    "index": 533,
+    "date": "7/1/2010",
+    "value": 179250,
+    "group": "WV"
+  },
+  {
+    "index": 534,
+    "date": "8/1/2010",
+    "value": 137000,
+    "group": "WV"
+  },
+  {
+    "index": 535,
+    "date": "9/1/2010",
+    "value": 160500,
+    "group": "WV"
+  },
+  {
+    "index": 536,
+    "date": "10/1/2010",
+    "value": 173500,
+    "group": "WV"
+  },
+  {
+    "index": 537,
+    "date": "11/1/2010",
+    "value": 147250,
+    "group": "WV"
+  },
+  {
+    "index": 538,
+    "date": "12/1/2010",
+    "value": 137250,
+    "group": "WV"
+  },
+  {
+    "index": 539,
+    "date": "1/1/2011",
+    "value": 119750,
+    "group": "WV"
+  },
+  {
+    "index": 540,
+    "date": "2/1/2011",
+    "value": 114250,
+    "group": "WV"
+  },
+  {
+    "index": 541,
+    "date": "3/1/2011",
+    "value": 125750,
+    "group": "WV"
+  },
+  {
+    "index": 542,
+    "date": "4/1/2011",
+    "value": 125250,
+    "group": "WV"
+  },
+  {
+    "index": 543,
+    "date": "5/1/2011",
+    "value": 137000,
+    "group": "WV"
+  },
+  {
+    "index": 544,
+    "date": "6/1/2011",
+    "value": 137000,
+    "group": "WV"
+  },
+  {
+    "index": 545,
+    "date": "7/1/2011",
+    "value": 139750,
+    "group": "WV"
+  },
+  {
+    "index": 546,
+    "date": "8/1/2011",
+    "value": 140750,
+    "group": "WV"
+  },
+  {
+    "index": 547,
+    "date": "9/1/2011",
+    "value": 143000,
+    "group": "WV"
+  },
+  {
+    "index": 548,
+    "date": "10/1/2011",
+    "value": 132000,
+    "group": "WV"
+  },
+  {
+    "index": 549,
+    "date": "11/1/2011",
+    "value": 122000,
+    "group": "WV"
+  },
+  {
+    "index": 550,
+    "date": "12/1/2011",
+    "value": 133500,
+    "group": "WV"
+  },
+  {
+    "index": 551,
+    "date": "1/1/2012",
+    "value": 159714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 552,
+    "date": "2/1/2012",
+    "value": 178000,
+    "group": "WV"
+  },
+  {
+    "index": 553,
+    "date": "3/1/2012",
+    "value": 186714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 554,
+    "date": "4/1/2012",
+    "value": 194000,
+    "group": "WV"
+  },
+  {
+    "index": 555,
+    "date": "5/1/2012",
+    "value": 203714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 556,
+    "date": "6/1/2012",
+    "value": 190142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 557,
+    "date": "7/1/2012",
+    "value": 202571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 558,
+    "date": "8/1/2012",
+    "value": 196857.1429,
+    "group": "WV"
+  },
+  {
+    "index": 559,
+    "date": "9/1/2012",
+    "value": 205857.1429,
+    "group": "WV"
+  },
+  {
+    "index": 560,
+    "date": "10/1/2012",
+    "value": 201428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 561,
+    "date": "11/1/2012",
+    "value": 193142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 562,
+    "date": "12/1/2012",
+    "value": 195857.1429,
+    "group": "WV"
+  },
+  {
+    "index": 563,
+    "date": "1/1/2013",
+    "value": 181000,
+    "group": "WV"
+  },
+  {
+    "index": 564,
+    "date": "2/1/2013",
+    "value": 196571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 565,
+    "date": "3/1/2013",
+    "value": 200142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 566,
+    "date": "4/1/2013",
+    "value": 201428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 567,
+    "date": "5/1/2013",
+    "value": 230571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 568,
+    "date": "6/1/2013",
+    "value": 211428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 569,
+    "date": "7/1/2013",
+    "value": 235000,
+    "group": "WV"
+  },
+  {
+    "index": 570,
+    "date": "8/1/2013",
+    "value": 218571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 571,
+    "date": "9/1/2013",
+    "value": 223571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 572,
+    "date": "10/1/2013",
+    "value": 216571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 573,
+    "date": "11/1/2013",
+    "value": 228857.1429,
+    "group": "WV"
+  },
+  {
+    "index": 574,
+    "date": "12/1/2013",
+    "value": 206857.1429,
+    "group": "WV"
+  },
+  {
+    "index": 575,
+    "date": "1/1/2014",
+    "value": 210285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 576,
+    "date": "2/1/2014",
+    "value": 210571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 577,
+    "date": "3/1/2014",
+    "value": 216714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 578,
+    "date": "4/1/2014",
+    "value": 230428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 579,
+    "date": "5/1/2014",
+    "value": 244000,
+    "group": "WV"
+  },
+  {
+    "index": 580,
+    "date": "6/1/2014",
+    "value": 235285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 581,
+    "date": "7/1/2014",
+    "value": 239285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 582,
+    "date": "8/1/2014",
+    "value": 227142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 583,
+    "date": "9/1/2014",
+    "value": 221000,
+    "group": "WV"
+  },
+  {
+    "index": 584,
+    "date": "10/1/2014",
+    "value": 221000,
+    "group": "WV"
+  },
+  {
+    "index": 585,
+    "date": "11/1/2014",
+    "value": 210142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 586,
+    "date": "12/1/2014",
+    "value": 218571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 587,
+    "date": "1/1/2015",
+    "value": 216285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 588,
+    "date": "2/1/2015",
+    "value": 206714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 589,
+    "date": "3/1/2015",
+    "value": 226142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 590,
+    "date": "4/1/2015",
+    "value": 227000,
+    "group": "WV"
+  },
+  {
+    "index": 591,
+    "date": "5/1/2015",
+    "value": 244571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 592,
+    "date": "6/1/2015",
+    "value": 242142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 593,
+    "date": "7/1/2015",
+    "value": 252142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 594,
+    "date": "8/1/2015",
+    "value": 231428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 595,
+    "date": "9/1/2015",
+    "value": 247571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 596,
+    "date": "10/1/2015",
+    "value": 223714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 597,
+    "date": "11/1/2015",
+    "value": 223285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 598,
+    "date": "12/1/2015",
+    "value": 212285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 599,
+    "date": "1/1/2016",
+    "value": 216142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 600,
+    "date": "2/1/2016",
+    "value": 210142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 601,
+    "date": "3/1/2016",
+    "value": 228714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 602,
+    "date": "4/1/2016",
+    "value": 232428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 603,
+    "date": "5/1/2016",
+    "value": 236000,
+    "group": "WV"
+  },
+  {
+    "index": 604,
+    "date": "6/1/2016",
+    "value": 241571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 605,
+    "date": "7/1/2016",
+    "value": 247428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 606,
+    "date": "8/1/2016",
+    "value": 249571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 607,
+    "date": "9/1/2016",
+    "value": 242571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 608,
+    "date": "10/1/2016",
+    "value": 235285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 609,
+    "date": "11/1/2016",
+    "value": 235285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 610,
+    "date": "12/1/2016",
+    "value": 227428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 611,
+    "date": "1/1/2017",
+    "value": 230285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 612,
+    "date": "2/1/2017",
+    "value": 237571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 613,
+    "date": "3/1/2017",
+    "value": 222000,
+    "group": "WV"
+  },
+  {
+    "index": 614,
+    "date": "4/1/2017",
+    "value": 243142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 615,
+    "date": "5/1/2017",
+    "value": 255142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 616,
+    "date": "6/1/2017",
+    "value": 255571.4286,
+    "group": "WV"
+  },
+  {
+    "index": 617,
+    "date": "7/1/2017",
+    "value": 251857.1429,
+    "group": "WV"
+  },
+  {
+    "index": 618,
+    "date": "8/1/2017",
+    "value": 247714.2857,
+    "group": "WV"
+  },
+  {
+    "index": 619,
+    "date": "9/1/2017",
+    "value": 251142.8571,
+    "group": "WV"
+  },
+  {
+    "index": 620,
+    "date": "10/1/2017",
+    "value": 250285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 621,
+    "date": "11/1/2017",
+    "value": 257285.7143,
+    "group": "WV"
+  },
+  {
+    "index": 622,
+    "date": "12/1/2017",
+    "value": 257000,
+    "group": "WV"
+  },
+  {
+    "index": 623,
+    "date": "1/1/2018",
+    "value": 242428.5714,
+    "group": "WV"
+  },
+  {
+    "index": 624,
+    "date": "2/1/2018",
+    "value": 247142.8571,
+    "group": "WV"
+  }
+]
